@@ -13,3 +13,14 @@ p1 {
     font-size: 2vw;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+div1 {
+    padding-top: 100px;
+}
+
+img {
+   padding: 50px, 10px, 50px, 10px;
+   width: 50%;
+   height: 50%;
+}
+
