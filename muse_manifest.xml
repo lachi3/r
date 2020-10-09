@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lachi3.github.io/r" resolutions="1x" timestamp="1602234255690">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lachi3.github.io/r" resolutions="1x" timestamp="1602234617987">
   <folder name="assets">
     <file name="the-most-wonderful-time-of-the-year.xseq.xsq" crc="4044782976" seo="true" mt="1600651944000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4137252974" ref="index"/>
+    <file name="index.css" crc="4118111338" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -19,5 +19,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3942799052" seo="true" mt="1602234218988" redirect="true"/>
+  <file name="index.html" crc="214234200" seo="true" mt="1602234573922" redirect="true"/>
 </manifest>
