@@ -1,0 +1,1 @@
+"use strict";!function(){var e=document.querySelectorAll(".talk_comment_count");Array.prototype.forEach.call(e,function(e){e.innerText="235"})}();
